@@ -1,0 +1,72 @@
+body{
+    background-color: darkcyan;
+}
+#táblázat{
+    background-color: bisque;
+    width: 900px;
+    height: 4280px;
+    margin: auto;
+    padding-top: 20px;
+}
+table{
+    background-color: lightseagreen;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+td{
+    border: 5px solid darksalmon;
+}
+td:last-child{
+    color: antiquewhite;
+    font-size: 125%;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    text-shadow: mediumaquamarine;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 200px;
+    background-color: antiquewhite;
+    line-height: 50px;
+    font-size: 150%;
+    font-weight: bold;
+    border: 5px outset darksalmon;
+    border-radius: 20px;
+    width: 500px;
+}
+.képek{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    size: 100% 100%;
+    border-radius: 10px;
+}
+ul{
+    text-align: justify;
+    border-radius: 10px;
+}
+.egyeb{
+    font-size: 100%;
+    color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+    font-size: 150%;
+}
+.link{
+    text-align: center;
+    border-radius: 10px;
+    border: 5px dashed antiquewhite;
+}
+a:hover{
+    color: teal;
+}
+a:active{
+    color: teal;
+}

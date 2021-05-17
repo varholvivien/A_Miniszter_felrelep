@@ -1,0 +1,84 @@
+/*td, tr{
+    border: 5px solid red;
+}*/
+body{
+    background-color: darkcyan;
+}
+table{
+    text-align: center;
+    margin: auto;
+}
+.link{
+    background-color: antiquewhite;
+    line-height: 50px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    border: 5px outset darksalmon;
+    border-radius: 20px;
+}
+#ures{
+    width: 100px;
+}
+#ismerteto{
+    text-align: justify;
+    margin-left: 10px;
+    text-indent: 15px;
+    font-weight: bold;
+    color: wheat;
+    background-color: teal;
+    border: 10px dotted antiquewhite;
+    padding-bottom: 0px;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 5px;
+}
+#fej{
+    height: 425px;
+    background-position: top;
+    margin-bottom: 50px;
+    background-image: url(képek/kep1.jpg);
+    background-repeat: repeat-x;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+}
+img{
+    height: 400px;
+    border: 10px dashed antiquewhite;
+    border-radius: 30px;
+    float: left;
+}
+h1{
+    margin: 0px;
+    padding-top: 300px;
+    text-align: center;
+    color: darksalmon;
+    font-size: 500%;
+    font-stretch: expanded 20px;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 10px darkcyan;
+}
+.wiki{
+    font-size: 125%;
+    color: wheat;
+}
+.wiki:hover{
+    color: darksalmon;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:active{
+    color: teal;
+}
+a:hover{
+    color: teal;
+}
+.link:hover{
+    background-color: gray;
+}
