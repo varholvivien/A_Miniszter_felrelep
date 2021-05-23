@@ -8,6 +8,8 @@ body{
     width: 750px;
     height: 800px;
     padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 h1{
     text-align: center;
@@ -27,7 +29,7 @@ p{
     padding: 0px 100px 0px 100px
 }
 img{
-    width: 600px;
+    width: 400px;
     text-align: center;
     border: 10px double teal;
     border-radius: 20px;
