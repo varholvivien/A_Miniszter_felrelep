@@ -28,7 +28,7 @@ table{
     color: wheat;
     background-color: teal;
     border: 10px dotted antiquewhite;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     padding-top: 5px;
     padding-right: 30px;
     padding-left: 30px;
@@ -65,6 +65,8 @@ h1{
 }
 .wiki{
     color: wheat;
+    text-align: center;
+    padding-right: 29px;
 }
 .wiki:hover{
     color: darksalmon;
