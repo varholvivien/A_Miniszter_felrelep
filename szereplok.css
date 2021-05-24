@@ -1,12 +1,11 @@
 body{
     background-color: darkcyan;
 }
-#táblázat{
+#tablazat{
     background-color: bisque;
-    width: 900px;
-    height: 4280px;
     margin: auto;
-    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 table{
     background-color: lightseagreen;
@@ -29,22 +28,20 @@ h1{
     text-shadow: mediumaquamarine;
     margin: auto;
     margin-bottom: 25px;
-    width: 200px;
+    margin-top: 20px;
     background-color: antiquewhite;
     line-height: 50px;
     font-size: 150%;
     font-weight: bold;
     border: 5px outset darksalmon;
     border-radius: 20px;
-    width: 500px;
+    
 }
 .kepek{
-    width: 50px;
     height: 50px;
     margin: auto;
     text-align: center;
-    size: 100% 100%;
-    border-radius: 10px;
+    
 }
 ul{
     text-align: justify;
@@ -64,6 +61,11 @@ a{
     border-radius: 10px;
     border: 5px dashed antiquewhite;
 }
+.link1{
+    text-align: center;
+    border-radius: 10px;
+    border-bottom: 5px dashed antiquewhite;
+}
 a:hover{
     color: teal;
 }
@@ -73,4 +75,7 @@ a:active{
 .copy{
     background-color: antiquewhite;
     padding-top: 10px;
+}
+img{
+    border-radius: 10px;
 }
