@@ -27,3 +27,7 @@ img{
     border: 10px double teal;
     border-radius: 20px;
 }
+.copy{
+    background-color: antiquewhite;
+    padding-top: 10px;
+}

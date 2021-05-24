@@ -52,7 +52,6 @@ img{
     float: left;
 }
 h1{
-    margin: 0px;
     padding-top: 150px;
     text-align: center;
     color: darksalmon;
@@ -80,4 +79,8 @@ a:hover{
 }
 .link:hover{
     background-color: gray;
+}
+.copy{
+    background-color: antiquewhite;
+    padding-top: 10px;
 }

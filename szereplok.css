@@ -70,3 +70,7 @@ a:hover{
 a:active{
     color: teal;
 }
+.copy{
+    background-color: antiquewhite;
+    padding-top: 10px;
+}
